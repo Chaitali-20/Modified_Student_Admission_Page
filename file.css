@@ -1,0 +1,76 @@
+body{
+  text-align: center;
+}
+.icon{
+  height: 70%;
+  width: 70%;
+
+
+}
+.header{
+  background-color: #FFF5E4;
+  padding: 45px 50px;
+  /* border: 20px 60px; */
+  margin: 10px auto 20px 0;
+}
+.header1{
+  font-size: 2em;
+  color: #850E35;
+  font-weight: bold;
+}
+.header2{
+  font-size: 1EM;
+}
+.navbar-brand{
+  text-indent: 20px;
+}
+.collapse{
+  align-items: center;
+}
+.portal-heading{
+  margin: 20px auto 40px auto;
+  padding: 5px 0;
+  background-color: #33363D;
+  color: #FFF5E4;
+  text-align: left;
+  font-size: 1em;
+  text-indent: 20px;
+}
+.torsal{
+  background-color: #FFC4C4;
+}
+.user_name,.first_name,.new_reg_bypass{
+  margin: 45px auto 20px auto;
+}
+.password,.last_name,.middle_name,.dob,.mail_id,.address,.mobile_no,.password1,.user_name1,.card-title1{
+  margin: 15px auto 30px auto;
+}
+.new_reg_bypass{
+  color: #4B56D2;
+}
+.contact{
+  margin: 30px auto 10px auto;
+  padding: 30px 0 10px 0;
+  background-color:  #FFC4C4;
+  font-weight: 100;
+}
+hr{
+
+  align-items: center;
+  margin: 0.8px 20px;
+}
+.fabs{
+  color: #FFF5E4;
+  text-decoration: none;
+  padding-top: 30px;
+}
+.contact_heading{
+  text-align: left;
+  text-indent: 20px;
+}
+.footer{
+  margin: 20px 0 20px 0;
+  padding: 10px 0 50px 0;
+  background-color: #850E35;
+  color: #FFF5E4;
+}
